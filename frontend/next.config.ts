@@ -6,9 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // GitHub Pages用にパスを指定（リポジトリ名がmiyu-birthdayの場合）
-  basePath: '/miyu-birthday',
-  assetPrefix: '/miyu-birthday/',
+  // basePath: '', // 削除
+  // assetPrefix: '', // 削除
 };
 
 module.exports = nextConfig;

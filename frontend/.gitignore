@@ -3,7 +3,7 @@
 
 # build output
 /.next
-/out
+#/out
 
 # misc
 .DS_Store
